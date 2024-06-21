@@ -1,1 +1,2 @@
-console.log('This is a sum function')
+console.log('Sum function one');
+console.log('Sum function two');
